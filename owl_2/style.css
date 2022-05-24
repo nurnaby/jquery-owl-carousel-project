@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.slider-area {
+    background-color: #ef5777;
+}
+
+.slider {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}

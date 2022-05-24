@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.item {
+    background-color: rgb(177, 161, 161);
+    height: 100px;
+    padding: 10px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.owl-next {
+    background-color: black;
+}
